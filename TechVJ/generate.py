@@ -1,6 +1,5 @@
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Credit Tg - @officialchetanjoshi
+# Ask Doubt on telegram @officialchetanjoshi
 
 import traceback
 from pyrogram.types import Message
@@ -102,6 +101,5 @@ async def main(bot: Client, message: Message):
     await bot.send_message(message.from_user.id, "<b>Account Login Successfully.\n\nIf You Get Any Error Related To AUTH KEY Then /logout and /login again</b>")
 
 
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Credit Tg - @officialchetanjoshi
+# Ask Doubt on telegram @officialchetanjoshi
