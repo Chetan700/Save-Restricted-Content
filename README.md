@@ -4,14 +4,13 @@
 
 ---
 
-<b>Watch Video Tutorial - [Click Here](https://youtu.be/CXw4NByRAac)</b>
 
 ## Variables
 
 - `API_HASH` : Your API Hash from [my.telegram.org](https://my.telegram.org)
 - `API_ID` : Your API ID from [my.telegram.org](https://my.telegram.org)
 - `BOT_TOKEN` : Your bot token from [BotFather](https://telegram.me/BotFather)
-- `DB_URI` : Your Mongodb Database Url from [mongodb.com](https://mongodb.com) [video tutorial](https://youtu.be/DAHRmFdw99o)
+- `DB_URI` : Your Mongodb Database Url from [mongodb.com](https://mongodb.com)
 
 ---
 
@@ -49,7 +48,5 @@ https://t.me/c/xxxx/101 - 120
 
 _note that space in between doesn't matter_
 
-### Credits
-
-- <b>Thanks To [BipinKrish](https://github.com/bipinkrish) For Base Repo
-- Thanks To [Tech VJ](https://telegram.dog/Kingvj01) For Modify & Added Login Feature.</b>
+# Credit Tg - @officialchetanjoshi
+# Ask Doubt on telegram @officialchetanjoshi
